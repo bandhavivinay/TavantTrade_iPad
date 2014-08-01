@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BCE07D13-A010-458A-9425-AA16658A9795</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TavantTrade</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
+		<string>http://svn.corp.tavant.com/svnproj/mobiledev/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/SBITavantTrade/TavantTrade_iOS/TavantTrade_iPad/TavantTrade.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
+		<string>http://svn.corp.tavant.com/svnproj/mobiledev</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.corp.tavant.com/svnproj/mobiledev/trunk/ios/SBITavantTrade/TavantTrade_iOS/TavantTrade_iPad/TavantTrade.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B30989BB-3A18-498F-A0B2-D41EB3978CA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B30989BB-3A18-498F-A0B2-D41EB3978CA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SBITradingDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
