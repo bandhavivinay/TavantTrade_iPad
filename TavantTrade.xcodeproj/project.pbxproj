@@ -359,6 +359,8 @@
 		B1C4F677192CB69700177D85 /* GDataXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C4F676192CB69700177D85 /* GDataXMLNode.m */; };
 		B1C4F679192CB91600177D85 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B1C4F678192CB91600177D85 /* libxml2.dylib */; };
 		B1CAF71118B36D23002874EF /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = B1CAF71018B36D23002874EF /* Configuration.plist */; };
+		B1D6FB6E198BBFCE005596CB /* run-sonar.sh in Resources */ = {isa = PBXBuildFile; fileRef = B1D6FB6D198BBFCE005596CB /* run-sonar.sh */; };
+		B1D6FB70198BBFF1005596CB /* sonar-project.properties in Resources */ = {isa = PBXBuildFile; fileRef = B1D6FB6F198BBFF1005596CB /* sonar-project.properties */; };
 		B1EEB34B18CF1AB300F6FB26 /* (null) in Sources */ = {isa = PBXBuildFile; };
 		B1FB60A318FE5BA400CC2F57 /* initial_chart_sample.png in Resources */ = {isa = PBXBuildFile; fileRef = B1FB60A218FE5BA400CC2F57 /* initial_chart_sample.png */; };
 		F604B17819507A8C004D538C /* TTOrderSearchTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F604B17719507A8C004D538C /* TTOrderSearchTableCell.m */; };
@@ -847,6 +849,8 @@
 		B1C4F676192CB69700177D85 /* GDataXMLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLNode.m; sourceTree = "<group>"; };
 		B1C4F678192CB91600177D85 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		B1CAF71018B36D23002874EF /* Configuration.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Configuration.plist; path = ../../Configuration.plist; sourceTree = "<group>"; };
+		B1D6FB6D198BBFCE005596CB /* run-sonar.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "run-sonar.sh"; sourceTree = "<group>"; };
+		B1D6FB6F198BBFF1005596CB /* sonar-project.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "sonar-project.properties"; sourceTree = "<group>"; };
 		B1FB60A218FE5BA400CC2F57 /* initial_chart_sample.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = initial_chart_sample.png; sourceTree = "<group>"; };
 		F604B17619507A8C004D538C /* TTOrderSearchTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTOrderSearchTableCell.h; sourceTree = "<group>"; };
 		F604B17719507A8C004D538C /* TTOrderSearchTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTOrderSearchTableCell.m; sourceTree = "<group>"; };
@@ -2123,6 +2127,8 @@
 		B1C1C1BB185881C500385707 = {
 			isa = PBXGroup;
 			children = (
+				B1D6FB6F198BBFF1005596CB /* sonar-project.properties */,
+				B1D6FB6D198BBFCE005596CB /* run-sonar.sh */,
 				B13085D5197E375F00093A77 /* libDiffusionTransport.a */,
 				F636EECE195552050081297C /* OrderJson.txt */,
 				F6C8C7831949CDD10024D4E4 /* Model.xcdatamodeld */,
@@ -2454,6 +2460,7 @@
 				B196B0BE18A2499A007A3846 /* cancle.png in Resources */,
 				B175792218C87F38008AC8B4 /* back@2x.png in Resources */,
 				3C13EAD418D81319008B31D3 /* sbitslider.jslocal in Resources */,
+				B1D6FB70198BBFF1005596CB /* sonar-project.properties in Resources */,
 				F6112C0C19514F380064C897 /* TTOrderSearchTableCell.xib in Resources */,
 				3C4E835618C5999100E236B1 /* TTWidgetSettingsCell.xib in Resources */,
 				B11824B918BF83B300EDED79 /* Add_to_Watchlist.png in Resources */,
@@ -2634,6 +2641,7 @@
 				B19F61C918C48525002BB600 /* market_popupover_topheader@2x.png in Resources */,
 				B11824BA18BF83B300EDED79 /* Add_to_Watchlist@2x.png in Resources */,
 				F638BEDD195823C5002E9EDE /* TTBODetailViewController.xib in Resources */,
+				B1D6FB6E198BBFCE005596CB /* run-sonar.sh in Resources */,
 				3C4E831D18C45C6000E236B1 /* TTQuotesTableViewCell.xib in Resources */,
 				B1856CE518D9C65F000E3F34 /* chart_option_button.png in Resources */,
 				B19383C8189FAFDA00F095EC /* search_icon@2x.png in Resources */,

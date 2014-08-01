@@ -5,47 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BCE07D13-A010-458A-9425-AA16658A9795</string>
+	<string>6CD47C30-0A4A-451E-B74E-0A14FE488F31</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TavantTrade</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
-		<string>http://svn.corp.tavant.com/svnproj/mobiledev/trunk</string>
+		<key>7A717CF1-6E93-4C36-9A7D-2B21B94D2B64</key>
+		<string>https://github.com/bandhavivinay/TavantTrade_iPad.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ios/SBITavantTrade/TavantTrade_iOS/TavantTrade_iPad/TavantTrade.xcodeproj/project.xcworkspace</string>
+	<string>TavantTrade.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
-		<string>../../../../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>B30989BB-3A18-498F-A0B2-D41EB3978CA1</key>
-		<string>http://svn.corp.tavant.com/svnproj/mobiledev</string>
+		<key>7A717CF1-6E93-4C36-9A7D-2B21B94D2B64</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://svn.corp.tavant.com/svnproj/mobiledev/trunk/ios/SBITavantTrade/TavantTrade_iOS/TavantTrade_iPad/TavantTrade.xcodeproj</string>
+	<string>https://github.com/bandhavivinay/TavantTrade_iPad.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B30989BB-3A18-498F-A0B2-D41EB3978CA1</string>
+	<string>7A717CF1-6E93-4C36-9A7D-2B21B94D2B64</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
-			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
-			<string>branches</string>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
-			<string>tags</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B30989BB-3A18-498F-A0B2-D41EB3978CA1</string>
+			<string>7A717CF1-6E93-4C36-9A7D-2B21B94D2B64</string>
 			<key>IDESourceControlWCCName</key>
-			<string>SBITradingDemo</string>
+			<string>TavantTrade_iPad</string>
 		</dict>
 	</array>
 </dict>
